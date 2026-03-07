@@ -1,6 +1,9 @@
 {
+  "model": "DALL·E 3",
+  "prompt": "ukiyo-e japanese woodblock print style landscape inspired by Katsushika Hokusai, lone traveler descending a steep mountain path toward a valley floor representing gradient descent, strong diagonal composition, flat color planes, indigo and muted earth palette, stylized clouds, carved woodblock linework, edo period print aesthetic, no text",
   "concept": "Gradient Descent",
+  "metaphor": "A traveler descending a steep mountain path toward a valley floor, symbolizing iterative optimization steps moving toward a minimum in a loss landscape.",
   "tradition_name": "Japanese Ukiyo-e Woodblock Print",
   "tradition_period": "Edo period (17th–19th century)",
-  "tradition_approach": "Ukiyo-e landscape composition inspired by Katsushika Hokusai, showing a lone traveler descending a steep mountain path toward a river valley to represent gradient descent optimization. Strong diagonal composition, flat unshaded color planes, carved woodblock-style linework, limited indigo and muted earth palette, stylized clouds and layered distant mountains characteristic of Edo-period woodblock prints."
+  "tradition_approach": "Landscape composition inspired by Katsushika Hokusai using strong diagonals, flat color planes, carved woodblock linework, limited indigo and earth palette, stylized clouds and distant mountains typical of Edo-period ukiyo-e prints."
 }
